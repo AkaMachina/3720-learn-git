@@ -7,7 +7,7 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
-| ssamue2          | akamachina   | 14           |
+|                  |              |              |
 |                  |              |              |
 
 
